@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import Navbar from './architecture/Navbar';
-import Cards from './architecture/Cards';
+import Navbar from './home_page/Navbar';
+import Cards from './home_page/Cards';
 
 class App extends Component {
   render() {
